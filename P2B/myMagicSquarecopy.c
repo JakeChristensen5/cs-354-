@@ -1,29 +1,3 @@
-///////////////////////////////////////////////////////////////////////////////
-// Copyright 2020 Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes/additions.
-// Used by permission, CS 354 Spring 2022, Deb Deppeler
-////////////////////////////////////////////////////////////////////////////////
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        MagicSquare.c and this program //// generates a magic quare of a specified size and writes it to an output file.
-// This File:        MagicSquare.c
-// Other Files:      N/A
-// Semester:         CS 354 Lecture 00? Fall 2022
-// Instructor:       deppeler
-//
-// Author:           Jake Christensen
-// Email:            jrchristens2@wisc.edu
-// CS Login:         jakec
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          Identify persons by name, relationship to you, and email.
-//                   Describe in detail the the ideas and help they provided.
-//
-// Online sources:   https://www.geeksforgeeks.org/magic-square/ (general reference in regards to algo)
-///////////////////////////////////////////////////////////////
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
