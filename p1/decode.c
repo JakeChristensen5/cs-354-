@@ -1,25 +1,3 @@
-////////////////////////////////////////////////////////////////////////////////
-// Main File:        "A Fortune to Get You Started" a program that will use the Caesar Cipher to mak//							- esecret encoded messages
-// This File:        P1: A Fortune to Get You Started
-// Other Files:      N/A
-// Semester:         CS 354 Lecture 001 Fall 2022
-// Instructor:       deppeler
-// 
-// Author:           Jake (Jacob) Christensen
-// Email:            Jrchristens2@wisc.edu
-// CS Login:         Jakec
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          Identify persons by name, relationship to you, and email.
-//                   Describe in detail the the ideas and help they provided.
-//
-// Online sources:   avoid web searches to solve your problems, but if you do
-//                   search, be sure to include Web URLs and description of 
-//                   of any information you find.
-//////////////////////////// 80 columns wide ///////////////////////////////////
 
 /*
  * This program decodes cipher texts using the Caesar cipher technique. 
